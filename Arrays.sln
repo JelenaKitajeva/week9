@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{8FA0FDDF-BAC5-4BAC-8BE5-88C7BDA1D438}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopingThroughtTheArray", "LoopingThroughtTheArray\LoopingThroughtTheArray.csproj", "{A3A1077B-6884-4710-8CD3-CADAE3DC27CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEachInArray", "ForEachInArray\ForEachInArray.csproj", "{8A834147-2706-4F3F-B3EE-5A0BABC6FB0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomFromArray", "RandomFromArray\RandomFromArray.csproj", "{F19D8F65-BE59-4F8C-99FE-9A36A88ACCDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FortuneCookie", "FortuneCookie\FortuneCookie.csproj", "{C0E2DCAD-8BBF-49D0-8B35-3EE0A0B76285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatterOfTaste", "MatterOfTaste\MatterOfTaste.csproj", "{01085273-69C4-4483-98AA-E697D8A5577B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA0FDDF-BAC5-4BAC-8BE5-88C7BDA1D438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA0FDDF-BAC5-4BAC-8BE5-88C7BDA1D438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA0FDDF-BAC5-4BAC-8BE5-88C7BDA1D438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA0FDDF-BAC5-4BAC-8BE5-88C7BDA1D438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A1077B-6884-4710-8CD3-CADAE3DC27CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A1077B-6884-4710-8CD3-CADAE3DC27CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A1077B-6884-4710-8CD3-CADAE3DC27CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A1077B-6884-4710-8CD3-CADAE3DC27CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A834147-2706-4F3F-B3EE-5A0BABC6FB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A834147-2706-4F3F-B3EE-5A0BABC6FB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A834147-2706-4F3F-B3EE-5A0BABC6FB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A834147-2706-4F3F-B3EE-5A0BABC6FB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19D8F65-BE59-4F8C-99FE-9A36A88ACCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19D8F65-BE59-4F8C-99FE-9A36A88ACCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19D8F65-BE59-4F8C-99FE-9A36A88ACCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19D8F65-BE59-4F8C-99FE-9A36A88ACCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E2DCAD-8BBF-49D0-8B35-3EE0A0B76285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E2DCAD-8BBF-49D0-8B35-3EE0A0B76285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E2DCAD-8BBF-49D0-8B35-3EE0A0B76285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E2DCAD-8BBF-49D0-8B35-3EE0A0B76285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01085273-69C4-4483-98AA-E697D8A5577B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01085273-69C4-4483-98AA-E697D8A5577B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01085273-69C4-4483-98AA-E697D8A5577B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01085273-69C4-4483-98AA-E697D8A5577B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A5E9AB-83AD-421B-9F77-FD8EDAC674CF}
+	EndGlobalSection
+EndGlobal

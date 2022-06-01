@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.exe
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.deps.json
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.runtimeconfig.json
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.dll
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\ref\LoopingThroughtTheArray.dll
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\bin\Debug\net5.0\LoopingThroughtTheArray.pdb
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.dll
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\ref\LoopingThroughtTheArray.dll
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.pdb
+C:\Users\lena_\source\repos\Arrays\LoopingThroughtTheArray\obj\Debug\net5.0\LoopingThroughtTheArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.exe
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.deps.json
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.runtimeconfig.json
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.dll
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ref\ForEachInArray.dll
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\bin\Debug\net5.0\ForEachInArray.pdb
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.dll
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ref\ForEachInArray.dll
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.pdb
+C:\Users\lena_\source\repos\Arrays\ForEachInArray\obj\Debug\net5.0\ForEachInArray.genruntimeconfig.cache

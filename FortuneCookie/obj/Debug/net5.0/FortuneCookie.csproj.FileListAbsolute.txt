@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.exe
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.deps.json
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.runtimeconfig.json
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.dll
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\ref\FortuneCookie.dll
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\bin\Debug\net5.0\FortuneCookie.pdb
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.dll
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\ref\FortuneCookie.dll
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.pdb
+C:\Users\lena_\source\repos\Arrays\FortuneCookie\obj\Debug\net5.0\FortuneCookie.genruntimeconfig.cache

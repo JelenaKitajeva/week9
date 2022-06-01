@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.exe
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.deps.json
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.runtimeconfig.json
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.dll
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\ref\MatterOfTaste.dll
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.pdb
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.dll
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\ref\MatterOfTaste.dll
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.pdb
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.genruntimeconfig.cache
+C:\Users\lena_\source\repos\Arrays\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.csproj.AssemblyReference.cache
